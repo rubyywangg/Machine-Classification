@@ -1,4 +1,4 @@
 # Machine-Classification
--logistic regression
--logisitc regression
+-logistic regression\n
+-logistic regression\n
 -k means clustering
